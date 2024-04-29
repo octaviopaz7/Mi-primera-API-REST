@@ -1,0 +1,58 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "octavio",
+      "edad": 28,
+      "mail": "octavioep@gmail.com"
+    },
+    {
+      "id": 2,
+      "nombre": "Juana",
+      "edad": 24,
+      "mail": "jjdb@gmail.com"
+    },
+    {
+      "id": 3,
+      "nombre": "graciela",
+      "edad": 32,
+      "mail": "gra1093@gmail.com"
+    },
+    {
+      "id": 4,
+      "nombre": "mariaLuisa",
+      "edad": 22,
+      "mail": "mariaLaHuerfanita@gmail.com"
+    },
+    {
+      "id": 5,
+      "nombre": "mariana",
+      "edad": 28,
+      "mail": "marigoldxc@hotmail.com"
+    },
+    {
+      "id": 6,
+      "nombre": "juan",
+      "edad": 19,
+      "mail": "Eldev25@gmail.com"
+    },
+    {
+      "id": 7,
+      "nombre": "cecilia",
+      "edad": 23,
+      "mail": "ceci24@gmail.com"
+    },
+    {
+      "id": 8,
+      "nombre": "facundo",
+      "edad": 31,
+      "mail": "facuxd1993@gmail.com"
+    },
+    {
+      "id": 9,
+      "nombre": "Juan",
+      "edad": 32,
+      "mail": "JuanferQuinteros8@yahoo.com.ar"
+    }
+  ]
+}
